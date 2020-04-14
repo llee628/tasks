@@ -1,4 +1,4 @@
-Target directory: /Users/aemass.yutsungchiu/Leo/FubonDecode/part5_queena_anny_unpacked/k2_motion_take2_anny_2020-04-06-14-40-22_unpacked
+Target directory: /Users/aemass.yutsungchiu/Leo/tasks//../FubonDecode/part5_queena_anny_unpacked/k2_motion_take2_anny_2020-04-06-14-40-22_unpacked/
 
 Start time: 2020-04-06 14:40:23 (1586155223532)
 End time: 2020-04-06 14:40:54 (1586155254606)
